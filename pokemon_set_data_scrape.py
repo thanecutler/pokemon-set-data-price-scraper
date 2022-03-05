@@ -27,8 +27,6 @@ from IPython.display import clear_output
 # for option in options:
 #   set_name_list.append(option['value'])
 
-# print(set_name_list)
-
 pokemon_url = 'https://shop.tcgplayer.com/price-guide/pokemon/'
 pokemon_sets = ['swsh09-brilliant-stars', 'swsh09-brilliant-stars-trainer-gallery', 'swsh08-fusion-strike', 'celebrations', 'celebrations-classic-collection', 'swsh07-evolving-skies', 'swsh06-chilling-reign', 'swsh05-battle-styles', 'first-partner-pack', 'shining-fates', 'shining-fates-shiny-vault', 'mcdonalds-25th-anniversary-promos', 'swsh04-vivid-voltage', 'champions-path', 'swsh03-darkness-ablaze', 'battle-academy', 'swsh02-rebel-clash', 'swsh01-sword-and-shield-base-set', 'swsh-sword-and-shield-promo-cards', 'sm-cosmic-eclipse', 'mcdonalds-promos-2019', 'hidden-fates', 'hidden-fates-shiny-vault', 'sm-unified-minds', 'sm-unbroken-bonds', 'detective-pikachu', 'sm-team-up', 'mcdonalds-promos-2018', 'sm-lost-thunder', 'miscellaneous-cards-and-products', 'dragon-majesty', 'sm-celestial-storm', 'world-championship-decks', 'sm-forbidden-light', 'sm-trainer-kit-alolan-sandslash-and-alolan-ninetales', 'sm-ultra-prism', 'mcdonalds-promos-2017', 'sm-crimson-invasion', 'shining-legends', 'sm-burning-shadows', 'alternate-art-promos', 'sm-guardians-rising', 'sm-trainer-kit-lycanroc-and-alolan-raichu', 'sm-base-set', 'sm-promos', 'xy-evolutions', 'deck-exclusives', 'xy-steam-siege', 'league-and-championship-cards', 'xy-fates-collide', 'xy-trainer-kit-pikachu-libre-and-suicune', 'generations', 'generations-radiant-collection', 'xy-breakpoint', 'mcdonalds-promos-2015', 'xy-breakthrough', 'xy-ancient-origins', 'xy-roaring-skies', 'xy-trainer-kit-latias-and-latios', 'jumbo-cards', 'double-crisis', 'xy-primal-clash', 'xy-trainer-kit-bisharp-and-wigglytuff', 'xy-phantom-forces', 'xy-furious-fists', 'mcdonalds-promos-2014', 'xy-flashfire', 'xy-trainer-kit-sylveon-and-noivern', 'xy-base-set', 'xy-promos', 'legendary-treasures', 'legendary-treasures-radiant-collection', 'plasma-blast', 'plasma-freeze', 'plasma-storm', 'boundaries-crossed', 'dragons-exalted', 'dark-explorers', 'noble-victories', 'bw-trainer-kit-excadrill-and-zoroark', 'emerging-powers', 'black-and-white', 'call-of-legends', 'professor-program-promos', 'triumphant', 'undaunted', 'pikachu-world-collection-promos', 'unleashed', 'hgss-promos', 'arceus', 'supreme-victors', 'burger-king-promos', 'countdown-calendar-promos', 'legends-awakened', 'great-encounters', 'dp-trainer-kit-manaphy-and-lucario', 'diamond-and-pearl', 'diamond-and-pearl-promos', 'dragon-frontiers', 'crystal-guardians', 'delta-species', 'unseen-forces', 'emerald', 'deoxys', 'ex-battle-stadium', 'kids-wb-promos', 'team-magma-vs-team-aqua', 'dragon', 'aquapolis', 'best-of-promos', 'team-rocket', 'fossil', 'wotc-promo', 'blister-exclusives', 'base-set', 'base-set-shadowless', 'base-set-2', 'black-and-white-promos', 'dp-training-kit-1-blue', 'dp-training-kit-1-gold', 'dragon-vault', 'ex-trainer-kit-1-latias-and-latios', 'ex-trainer-kit-2-plusle-and-minun', 'expedition', 'firered-and-leafgreen', 'gym-challenge', 'gym-heroes', 'heartgold-soulsilver', 'hgss-trainer-kit-gyarados-and-raichu', 'hidden-legends', 'holon-phantoms', 'jungle', 'kalos-starter-set', 'legend-maker', 'legendary-collection', 'majestic-dawn', 'mcdonalds-promos-2011', 'mcdonalds-promos-2012', 'mysterious-treasures', 'neo-destiny', 'neo-discovery', 'neo-genesis', 'neo-revelation', 'next-destinies', 'nintendo-promos', 'platinum', 'pop-series-1', 'pop-series-2', 'pop-series-3', 'pop-series-4', 'pop-series-5', 'pop-series-6', 'pop-series-7', 'pop-series-8', 'pop-series-9', 'power-keepers', 'rising-rivals', 'ruby-and-sapphire', 'rumble', 'sandstorm', 'secret-wonders', 'skyridge', 'southern-islands', 'stormfront', 'team-rocket-returns']
 
@@ -38,7 +36,7 @@ def scrape_data(url, set_list):
 
   print('Beginning collection...')
 
-  set_price_list = []
+  set_price_list = {'data': []}
   skipped_sets = []
 
   for ind, set_name in enumerate(set_list):
@@ -69,16 +67,19 @@ def scrape_data(url, set_list):
     total = round(sum(map(float, price_array)), 2)
     
     # create new dict to push to set_price_list
-    set_obj = {'set_name': set_name.replace('-', ' ').title(), 'value': total, 'url': url + set_name}
-    set_price_list.append(set_obj)
+    set_obj = {'set_name': set_name.replace('-', ' ').title(), 'value': total, 'url': url + set_name, 'card_count': len(price_td)}
+    set_price_list['data'].append(set_obj)
 
     print('Completed {} of {} sets'.format(ind + 1, len(set_list)))
 
     # wait ten seconds for crawl delay
-    time.sleep(10)
-    print('Waiting 10 seconds for next set...')
+    if (ind + 1 != len(set_list)):
+      print('Waiting 10 seconds for next set...')
+      time.sleep(10)
 
-  today = date.today().strftime("%m-%d-%y")
+  today = date.today().strftime('%Y-%m-%d')
+  set_price_list['date'] = today
+  
   file_title = 'pokemon-set-price-data-{}.json'.format(today)
 
   # output to results.json file
