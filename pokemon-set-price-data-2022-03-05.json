@@ -1,0 +1,1325 @@
+{
+  "data": [
+    {
+      "uuid": "6c2f01cc-b2a5-48a1-a802-abb1e6300aee",
+      "set_name": "Swsh09 Brilliant Stars",
+      "value": 1163.03,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh09-brilliant-stars",
+      "card_count": 204,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0d0c614b-83b4-4b46-9a24-d819c291bd3a",
+      "set_name": "Swsh09 Brilliant Stars Trainer Gallery",
+      "value": 296.03,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh09-brilliant-stars-trainer-gallery",
+      "card_count": 30,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "654911dd-e57a-47df-831b-3a931c4ca3ce",
+      "set_name": "Swsh08 Fusion Strike",
+      "value": 803.73,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh08-fusion-strike",
+      "card_count": 294,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e57dc942-0202-4f93-be8e-9da25beb6947",
+      "set_name": "Celebrations",
+      "value": 60.55,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/celebrations",
+      "card_count": 37,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6990da81-d0ae-4801-9154-54fb344d8d51",
+      "set_name": "Celebrations Classic Collection",
+      "value": 221.28,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/celebrations-classic-collection",
+      "card_count": 25,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "9a84277d-ba64-4233-b391-01fa59c776a4",
+      "set_name": "Swsh07 Evolving Skies",
+      "value": 2207.69,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh07-evolving-skies",
+      "card_count": 258,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "82c9cb1d-f7b0-4468-81d8-25070c0eb5ba",
+      "set_name": "Swsh06 Chilling Reign",
+      "value": 1277.41,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh06-chilling-reign",
+      "card_count": 246,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "9a6bdb5f-7fde-476d-afe3-c026e2dd48b3",
+      "set_name": "Swsh05 Battle Styles",
+      "value": 539.46,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh05-battle-styles",
+      "card_count": 201,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "cfc1f68e-3bb7-4f83-a18a-0114fd1362e6",
+      "set_name": "First Partner Pack",
+      "value": 58.77,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/first-partner-pack",
+      "card_count": 25,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "8aa2adeb-01f0-42e9-8c0b-30485a13e3ab",
+      "set_name": "Shining Fates",
+      "value": 74.31,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/shining-fates",
+      "card_count": 88,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f22d5c26-925b-4ee7-8e72-6a68d5591882",
+      "set_name": "Shining Fates Shiny Vault",
+      "value": 594.44,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/shining-fates-shiny-vault",
+      "card_count": 122,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "a09ea9c6-7ba4-4cf4-815f-7880c9940d26",
+      "set_name": "Mcdonalds 25Th Anniversary Promos",
+      "value": 11.0,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-25th-anniversary-promos",
+      "card_count": 25,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "753df2c2-79fd-4e22-a032-53257e38cde8",
+      "set_name": "Swsh04 Vivid Voltage",
+      "value": 540.91,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh04-vivid-voltage",
+      "card_count": 220,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "3db52f24-b0b3-4252-8f43-a8a6b67a1354",
+      "set_name": "Champions Path",
+      "value": 459.31,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/champions-path",
+      "card_count": 93,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "1bb73c48-a5de-42d2-ab4b-e499512e76e4",
+      "set_name": "Swsh03 Darkness Ablaze",
+      "value": 269.4,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh03-darkness-ablaze",
+      "card_count": 216,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ef1e3025-d6d4-4337-8f42-cb44ed2ddcbe",
+      "set_name": "Battle Academy",
+      "value": 51.33,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/battle-academy",
+      "card_count": 138,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c5537c83-01be-48c7-be8d-e2d4df84d80b",
+      "set_name": "Swsh02 Rebel Clash",
+      "value": 467.31,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh02-rebel-clash",
+      "card_count": 218,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "82790c19-a12c-4d48-bf97-9b03d6832af7",
+      "set_name": "Swsh01 Sword And Shield Base Set",
+      "value": 398.39,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh01-sword-and-shield-base-set",
+      "card_count": 245,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e96b9d14-2a47-4354-8ed9-9d4dd98dc03e",
+      "set_name": "Swsh Sword And Shield Promo Cards",
+      "value": 2653.76,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/swsh-sword-and-shield-promo-cards",
+      "card_count": 221,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "875f07ef-90bf-488f-8d17-4f41c7b7a165",
+      "set_name": "Sm Cosmic Eclipse",
+      "value": 1418.37,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-cosmic-eclipse",
+      "card_count": 272,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "2daa226e-0bad-489d-b548-624ec5f4186a",
+      "set_name": "Mcdonalds Promos 2019",
+      "value": 95.7,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2019",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "319503ab-89a3-4938-aaeb-43b4d2bc6e10",
+      "set_name": "Hidden Fates",
+      "value": 63.56,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/hidden-fates",
+      "card_count": 72,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "bad88d28-97d6-4aa1-9adc-08a20f063745",
+      "set_name": "Hidden Fates Shiny Vault",
+      "value": 1419.7,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/hidden-fates-shiny-vault",
+      "card_count": 94,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fe147bb6-47b9-460f-8a40-5861a629d86a",
+      "set_name": "Sm Unified Minds",
+      "value": 861.72,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-unified-minds",
+      "card_count": 260,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "3d63d60b-a774-4bbd-8797-3cf80a972d1e",
+      "set_name": "Sm Unbroken Bonds",
+      "value": 906.0,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-unbroken-bonds",
+      "card_count": 235,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6b158c4e-c1be-496c-98a1-be45355aa92d",
+      "set_name": "Detective Pikachu",
+      "value": 34.81,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/detective-pikachu",
+      "card_count": 19,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "547cb508-32c2-4d94-aa1a-89b2bfa4ecc6",
+      "set_name": "Sm Team Up",
+      "value": 1299.9,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-team-up",
+      "card_count": 205,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "7ec9a8d1-e070-4604-93e4-d10df91f05f3",
+      "set_name": "Mcdonalds Promos 2018",
+      "value": 103.25,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2018",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "21db260f-cca8-4829-8d6a-f25f5067cb4d",
+      "set_name": "Sm Lost Thunder",
+      "value": 919.5,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-lost-thunder",
+      "card_count": 237,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "688b1386-109a-4475-b918-6284ee54d6ea",
+      "set_name": "Miscellaneous Cards And Products",
+      "value": 2179.97,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/miscellaneous-cards-and-products",
+      "card_count": 234,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ef687dc6-9a00-450d-b00d-6938bce726e5",
+      "set_name": "Dragon Majesty",
+      "value": 370.37,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dragon-majesty",
+      "card_count": 78,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "62d9a0de-11fd-406b-87af-0719a70fdb0c",
+      "set_name": "Sm Celestial Storm",
+      "value": 722.26,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-celestial-storm",
+      "card_count": 183,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f86d2d83-f6c6-437a-933c-db8a349828f3",
+      "set_name": "World Championship Decks",
+      "value": 0,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/world-championship-decks",
+      "card_count": 0,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fab955b7-78bf-4382-8fcb-6ed37ade35bd",
+      "set_name": "Sm Forbidden Light",
+      "value": 545.13,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-forbidden-light",
+      "card_count": 147,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "42609792-70d4-4618-8e2c-be2c6a958a33",
+      "set_name": "Sm Trainer Kit Alolan Sandslash And Alolan Ninetales",
+      "value": 16.49,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-trainer-kit-alolan-sandslash-and-alolan-ninetales",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "da92663b-e3e2-4c05-8f31-f8ffc8e3091c",
+      "set_name": "Sm Ultra Prism",
+      "value": 995.66,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-ultra-prism",
+      "card_count": 174,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "236ea993-a4cd-4cd4-907f-03b63093b91f",
+      "set_name": "Mcdonalds Promos 2017",
+      "value": 46.41,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2017",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "df462565-0872-4349-afc7-e653c024263a",
+      "set_name": "Sm Crimson Invasion",
+      "value": 219.05,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-crimson-invasion",
+      "card_count": 127,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "7e9e7bec-bff3-4837-b340-e54ced803a0c",
+      "set_name": "Shining Legends",
+      "value": 411.07,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/shining-legends",
+      "card_count": 81,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "00c10ac5-bf93-4415-9029-81f476c880ef",
+      "set_name": "Sm Burning Shadows",
+      "value": 858.97,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-burning-shadows",
+      "card_count": 170,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "4bee0857-0cf7-4cf5-a25e-bdafa08fecf3",
+      "set_name": "Alternate Art Promos",
+      "value": 456.99,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/alternate-art-promos",
+      "card_count": 57,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "4bf8ab91-57a4-4b42-9ed1-afcb807d5626",
+      "set_name": "Sm Guardians Rising",
+      "value": 515.69,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-guardians-rising",
+      "card_count": 171,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "dcc96f0a-a989-495d-b184-e56b3b4dcdc8",
+      "set_name": "Sm Trainer Kit Lycanroc And Alolan Raichu",
+      "value": 6.16,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-trainer-kit-lycanroc-and-alolan-raichu",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "8a64fd93-bc50-43a6-8557-e654cab122ed",
+      "set_name": "Sm Base Set",
+      "value": 347.87,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-base-set",
+      "card_count": 173,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "1df73049-c5b3-4c3b-abf2-78ef65e8625f",
+      "set_name": "Sm Promos",
+      "value": 2321.32,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sm-promos",
+      "card_count": 329,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "70398897-c452-4c21-891c-74a6cf44596d",
+      "set_name": "Xy Evolutions",
+      "value": 313.14,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-evolutions",
+      "card_count": 116,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f1c9ffbb-32fd-4271-a773-a4736ab6d2ec",
+      "set_name": "Deck Exclusives",
+      "value": 1284.33,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/deck-exclusives",
+      "card_count": 364,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "9633af50-8bfc-42af-a5c3-e54a272f997f",
+      "set_name": "Xy Steam Siege",
+      "value": 115.51,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-steam-siege",
+      "card_count": 118,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "18218725-c31e-4193-894d-8b64afe44e66",
+      "set_name": "League And Championship Cards",
+      "value": 4254.04,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/league-and-championship-cards",
+      "card_count": 518,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0790556c-c524-4fc8-ab8f-247818393b0e",
+      "set_name": "Xy Fates Collide",
+      "value": 176.25,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-fates-collide",
+      "card_count": 126,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "14df4aed-efd3-426b-9300-70831d73dcdc",
+      "set_name": "Xy Trainer Kit Pikachu Libre And Suicune",
+      "value": 37.75,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-trainer-kit-pikachu-libre-and-suicune",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "76639cf8-d121-4e3c-b6c1-2d8da77aabda",
+      "set_name": "Generations",
+      "value": 264.41,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/generations",
+      "card_count": 99,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "3074bb4e-eb68-40f5-8924-e63dd0bce044",
+      "set_name": "Generations Radiant Collection",
+      "value": 168.15,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/generations-radiant-collection",
+      "card_count": 32,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "184bed3d-7bea-4299-b2f2-f4c268db7337",
+      "set_name": "Xy Breakpoint",
+      "value": 233.16,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-breakpoint",
+      "card_count": 124,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "746ead10-52f0-43e3-8220-1c7160f37c5c",
+      "set_name": "Mcdonalds Promos 2015",
+      "value": 68.93,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2015",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "44f3ed16-662d-49f2-8cfe-a73e714b6adb",
+      "set_name": "Xy Breakthrough",
+      "value": 308.45,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-breakthrough",
+      "card_count": 165,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c9638d72-80b0-4704-be87-79a11ce68810",
+      "set_name": "Xy Ancient Origins",
+      "value": 527.96,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-ancient-origins",
+      "card_count": 100,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "80dbda5b-c3da-4edc-9264-b4a22d004bad",
+      "set_name": "Xy Roaring Skies",
+      "value": 291.78,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-roaring-skies",
+      "card_count": 110,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "8a03c3f9-38ec-4c3f-8831-432afdc1f59f",
+      "set_name": "Xy Trainer Kit Latias And Latios",
+      "value": 15.6,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-trainer-kit-latias-and-latios",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "959fd331-f371-4f0d-b187-4164224e3755",
+      "set_name": "Jumbo Cards",
+      "value": 2575.0,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/jumbo-cards",
+      "card_count": 230,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0fa8f1ed-8822-40a5-a559-5f5a67c23f96",
+      "set_name": "Double Crisis",
+      "value": 126.81,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/double-crisis",
+      "card_count": 34,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "a3f80ee1-be5b-4843-87ab-8d4c72bb6150",
+      "set_name": "Xy Primal Clash",
+      "value": 434.96,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-primal-clash",
+      "card_count": 164,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "d14dbf83-4758-466e-b0f5-b8422d96dc36",
+      "set_name": "Xy Trainer Kit Bisharp And Wigglytuff",
+      "value": 30.18,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-trainer-kit-bisharp-and-wigglytuff",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fcbc65b2-7ace-4378-ad60-ce25293a536a",
+      "set_name": "Xy Phantom Forces",
+      "value": 386.6,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-phantom-forces",
+      "card_count": 122,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "10279339-935f-493b-aa46-4351897f9975",
+      "set_name": "Xy Furious Fists",
+      "value": 240.5,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-furious-fists",
+      "card_count": 113,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "4e488488-6b54-4855-8931-04dde888c1d8",
+      "set_name": "Mcdonalds Promos 2014",
+      "value": 58.55,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2014",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "15508675-e6f8-4a5f-bd50-b5a8437f4fbb",
+      "set_name": "Xy Flashfire",
+      "value": 670.12,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-flashfire",
+      "card_count": 109,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0c383f01-ab2b-4a00-83ff-fc22e62fbad1",
+      "set_name": "Xy Trainer Kit Sylveon And Noivern",
+      "value": 57.92,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-trainer-kit-sylveon-and-noivern",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "60734ef1-42a8-494e-a6a3-69207309ff99",
+      "set_name": "Xy Base Set",
+      "value": 257.62,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-base-set",
+      "card_count": 147,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "137a33d3-af96-4771-882e-871a0d413ca6",
+      "set_name": "Xy Promos",
+      "value": 4747.72,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/xy-promos",
+      "card_count": 262,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "7c3ad154-5b2c-4f63-b854-376b4221620f",
+      "set_name": "Legendary Treasures",
+      "value": 429.11,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/legendary-treasures",
+      "card_count": 115,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "4d92bbf3-2d75-4afe-aad0-c13319fd1a4e",
+      "set_name": "Legendary Treasures Radiant Collection",
+      "value": 128.72,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/legendary-treasures-radiant-collection",
+      "card_count": 25,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f0340563-afdf-4ba2-a639-1586dd9c252b",
+      "set_name": "Plasma Blast",
+      "value": 610.28,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/plasma-blast",
+      "card_count": 105,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "56810a17-f833-40ce-8c9c-3fc4adbc6b82",
+      "set_name": "Plasma Freeze",
+      "value": 1299.66,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/plasma-freeze",
+      "card_count": 122,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e8e63d38-7570-4698-aa32-830cf6efc851",
+      "set_name": "Plasma Storm",
+      "value": 1084.66,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/plasma-storm",
+      "card_count": 138,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "bf5c8059-0e1e-4b7a-89a9-caf4b2eb62e9",
+      "set_name": "Boundaries Crossed",
+      "value": 1014.02,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/boundaries-crossed",
+      "card_count": 153,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "719fecb1-29bd-4042-be54-dfbea88df029",
+      "set_name": "Dragons Exalted",
+      "value": 931.84,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dragons-exalted",
+      "card_count": 128,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "cd4f82a4-26c7-4066-8571-59d35878f794",
+      "set_name": "Dark Explorers",
+      "value": 1007.98,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dark-explorers",
+      "card_count": 111,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0efdee63-5911-4a9b-a272-e83287174222",
+      "set_name": "Noble Victories",
+      "value": 260.18,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/noble-victories",
+      "card_count": 102,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "75d3a6f6-0215-4bc8-b6d7-8d8ae8700c54",
+      "set_name": "Bw Trainer Kit Excadrill And Zoroark",
+      "value": 35.05,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/bw-trainer-kit-excadrill-and-zoroark",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "7cdef8a5-8bc6-4af7-8ebe-7c3fb1cd9385",
+      "set_name": "Emerging Powers",
+      "value": 48.12,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/emerging-powers",
+      "card_count": 98,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "98fc61dc-a4f6-4683-8864-c765ccaeedf2",
+      "set_name": "Black And White",
+      "value": 164.62,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/black-and-white",
+      "card_count": 116,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "7b1b78a6-eaef-4817-b41c-6829714b1c3f",
+      "set_name": "Call Of Legends",
+      "value": 2291.92,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/call-of-legends",
+      "card_count": 106,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "2c44b32c-2297-41d8-912e-76e9a1ffea2a",
+      "set_name": "Professor Program Promos",
+      "value": 145.75,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/professor-program-promos",
+      "card_count": 15,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "74e0e231-8e62-489a-871b-2627dffc00ab",
+      "set_name": "Triumphant",
+      "value": 488.01,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/triumphant",
+      "card_count": 103,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c42b912a-309f-4239-a490-96bb9c9e3aca",
+      "set_name": "Undaunted",
+      "value": 624.22,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/undaunted",
+      "card_count": 91,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ac72d871-7d53-4e33-b5e2-edc572e00384",
+      "set_name": "Pikachu World Collection Promos",
+      "value": 905.08,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pikachu-world-collection-promos",
+      "card_count": 19,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "797d60e7-9e17-4bfc-a3e0-309c14406944",
+      "set_name": "Unleashed",
+      "value": 572.85,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/unleashed",
+      "card_count": 96,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "78b38525-891b-4831-8ab3-e17d93efd3f4",
+      "set_name": "Hgss Promos",
+      "value": 899.68,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/hgss-promos",
+      "card_count": 37,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "d9eed85d-d60d-44bd-8bbd-61dfe414f594",
+      "set_name": "Arceus",
+      "value": 752.82,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/arceus",
+      "card_count": 111,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "3fce7a39-b92c-45ca-832c-8b15b0c0ba3f",
+      "set_name": "Supreme Victors",
+      "value": 1004.68,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/supreme-victors",
+      "card_count": 153,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "71d6cb78-5bd6-4267-ba09-79bb5e38d74f",
+      "set_name": "Burger King Promos",
+      "value": 192.07,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/burger-king-promos",
+      "card_count": 24,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "b52d7fb5-8479-47ee-8321-8ae277e36563",
+      "set_name": "Countdown Calendar Promos",
+      "value": 619.51,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/countdown-calendar-promos",
+      "card_count": 24,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "67cb48e8-f029-45de-bca1-1262c5bd0236",
+      "set_name": "Legends Awakened",
+      "value": 683.12,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/legends-awakened",
+      "card_count": 147,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "006dd8cf-e9d6-49b0-bb81-4c17092edcf7",
+      "set_name": "Great Encounters",
+      "value": 389.11,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/great-encounters",
+      "card_count": 106,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fd1138e8-4c73-4456-9729-bbf3324a3624",
+      "set_name": "Dp Trainer Kit Manaphy And Lucario",
+      "value": 13.45,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dp-trainer-kit-manaphy-and-lucario",
+      "card_count": 23,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "363396c6-46aa-4709-a15d-4ab411927391",
+      "set_name": "Diamond And Pearl",
+      "value": 352.5,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/diamond-and-pearl",
+      "card_count": 130,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "dbe1d07b-2cea-4fcd-822c-5c84c865895f",
+      "set_name": "Diamond And Pearl Promos",
+      "value": 931.52,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/diamond-and-pearl-promos",
+      "card_count": 65,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "94e3103d-e808-486a-8f23-49837ec11d85",
+      "set_name": "Dragon Frontiers",
+      "value": 1952.09,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dragon-frontiers",
+      "card_count": 101,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e1ff534e-e137-4780-81e7-fe6f718763f4",
+      "set_name": "Crystal Guardians",
+      "value": 1320.86,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/crystal-guardians",
+      "card_count": 100,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ffc4e2f3-a823-4e5e-a45a-97001e19898b",
+      "set_name": "Delta Species",
+      "value": 1723.23,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/delta-species",
+      "card_count": 114,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "1cfe625e-40fc-4504-abc5-aef2e3efc7d9",
+      "set_name": "Unseen Forces",
+      "value": 4615.48,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/unseen-forces",
+      "card_count": 145,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e793b678-8644-4863-b590-533e6e497b4a",
+      "set_name": "Emerald",
+      "value": 1297.64,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/emerald",
+      "card_count": 107,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0301ace5-ea55-4f71-8c24-cd0b596eb025",
+      "set_name": "Deoxys",
+      "value": 1833.38,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/deoxys",
+      "card_count": 108,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c42ee48a-afd7-4dc7-aa42-1cfc3929a3eb",
+      "set_name": "Ex Battle Stadium",
+      "value": 94.06,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/ex-battle-stadium",
+      "card_count": 50,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "cb2364a8-3f26-4d54-94e5-d8fc070f90d3",
+      "set_name": "Kids Wb Promos",
+      "value": 2.99,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/kids-wb-promos",
+      "card_count": 5,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c5d08180-58e6-4209-9d4d-876720f3eedb",
+      "set_name": "Team Magma Vs Team Aqua",
+      "value": 1361.22,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/team-magma-vs-team-aqua",
+      "card_count": 97,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "d301c7a9-1cd3-4b11-b4b2-853da23b301f",
+      "set_name": "Dragon",
+      "value": 1386.27,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dragon",
+      "card_count": 100,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "148eea44-2a4a-45a5-a19f-05608d2bb790",
+      "set_name": "Aquapolis",
+      "value": 6081.78,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/aquapolis",
+      "card_count": 186,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e0f91a35-52f1-4be4-ac9e-4198bff810e2",
+      "set_name": "Best Of Promos",
+      "value": 655.87,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/best-of-promos",
+      "card_count": 15,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "df20406f-89f2-489a-b57b-e7a0dde6e3c7",
+      "set_name": "Team Rocket",
+      "value": 2197.67,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/team-rocket",
+      "card_count": 83,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "443376b4-65fc-4831-a814-5e1ac2b10c64",
+      "set_name": "Fossil",
+      "value": 1654.07,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/fossil",
+      "card_count": 62,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e1a8d52e-52ad-459f-880d-15f0b4f0d68c",
+      "set_name": "Wotc Promo",
+      "value": 2426.22,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/wotc-promo",
+      "card_count": 67,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "50f09aa6-e467-436e-9907-92c5a0a77836",
+      "set_name": "Blister Exclusives",
+      "value": 605.49,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/blister-exclusives",
+      "card_count": 115,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "d3cb34f2-214e-46b3-836f-4de1d7ab9514",
+      "set_name": "Base Set",
+      "value": 984.61,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/base-set",
+      "card_count": 101,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fc94b164-0f0d-47cf-b4d0-ce183fd47d17",
+      "set_name": "Base Set Shadowless",
+      "value": 8167.12,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/base-set-shadowless",
+      "card_count": 102,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f56dc9d2-7f76-4fba-a4e3-a77dcf5cd01d",
+      "set_name": "Base Set 2",
+      "value": 750.4,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/base-set-2",
+      "card_count": 130,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0d70de99-0f62-4094-a2bf-7be002950441",
+      "set_name": "Black And White Promos",
+      "value": 3603.2,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/black-and-white-promos",
+      "card_count": 150,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "a6db6531-22ba-468b-8c0b-b640cc2d7546",
+      "set_name": "Dp Training Kit 1 Blue",
+      "value": 13.07,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dp-training-kit-1-blue",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ce3263df-eaa2-470c-ac79-84bab902f18b",
+      "set_name": "Dp Training Kit 1 Gold",
+      "value": 6.09,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dp-training-kit-1-gold",
+      "card_count": 11,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c24e5844-afd9-47b6-8248-cd6ba551aaf7",
+      "set_name": "Dragon Vault",
+      "value": 128.34,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/dragon-vault",
+      "card_count": 21,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fa9f8a48-ddf6-44da-814e-df99f60de51b",
+      "set_name": "Ex Trainer Kit 1 Latias And Latios",
+      "value": 8.32,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/ex-trainer-kit-1-latias-and-latios",
+      "card_count": 20,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "1c8d493f-6d61-4052-a8d2-332cca0efe43",
+      "set_name": "Ex Trainer Kit 2 Plusle And Minun",
+      "value": 18.32,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/ex-trainer-kit-2-plusle-and-minun",
+      "card_count": 24,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "af593383-3123-457a-ad54-d80b801e2ccc",
+      "set_name": "Expedition",
+      "value": 3452.83,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/expedition",
+      "card_count": 165,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fb823677-f8aa-4cb2-956a-583abb8c9d83",
+      "set_name": "Firered And Leafgreen",
+      "value": 2549.39,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/firered-and-leafgreen",
+      "card_count": 116,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c3707378-9fe2-457d-ad1f-78558b839412",
+      "set_name": "Gym Challenge",
+      "value": 3684.26,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/gym-challenge",
+      "card_count": 133,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f65a9886-8699-4d54-ab84-e42a4f7188f8",
+      "set_name": "Gym Heroes",
+      "value": 2442.35,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/gym-heroes",
+      "card_count": 132,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "804fdd43-74f9-4314-b20a-4a758f5a12c5",
+      "set_name": "Heartgold Soulsilver",
+      "value": 740.86,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/heartgold-soulsilver",
+      "card_count": 124,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "a15bf758-6b38-4d21-9043-a0457c3d70e0",
+      "set_name": "Hgss Trainer Kit Gyarados And Raichu",
+      "value": 60.41,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/hgss-trainer-kit-gyarados-and-raichu",
+      "card_count": 60,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "427ac141-604b-4913-89f1-be7344dcf4bc",
+      "set_name": "Hidden Legends",
+      "value": 959.31,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/hidden-legends",
+      "card_count": 102,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "9920f94a-8f3c-4faa-b656-b972bb7d90ed",
+      "set_name": "Holon Phantoms",
+      "value": 1861.92,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/holon-phantoms",
+      "card_count": 111,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ff1ac549-2e7e-4e9c-9b35-670ae0279930",
+      "set_name": "Jungle",
+      "value": 1692.4,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/jungle",
+      "card_count": 64,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "347c6717-c805-4499-a169-7f4b6458b0a0",
+      "set_name": "Kalos Starter Set",
+      "value": 81.9,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/kalos-starter-set",
+      "card_count": 45,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "61966591-c686-4449-85c2-0ce502e598a4",
+      "set_name": "Legend Maker",
+      "value": 1529.81,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/legend-maker",
+      "card_count": 93,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "543b5f90-889a-4aa7-b071-56e4226240f7",
+      "set_name": "Legendary Collection",
+      "value": 1191.61,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/legendary-collection",
+      "card_count": 110,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "b578b1fd-b90f-4658-bfdd-ab784c090172",
+      "set_name": "Majestic Dawn",
+      "value": 863.7,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/majestic-dawn",
+      "card_count": 100,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c7837f4c-54de-449a-8e92-af5a1b48ef7c",
+      "set_name": "Mcdonalds Promos 2011",
+      "value": 28.7,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2011",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "fb1764a4-11cc-4367-a85f-4b3457f1578d",
+      "set_name": "Mcdonalds Promos 2012",
+      "value": 57.99,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mcdonalds-promos-2012",
+      "card_count": 12,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6b569512-566c-45b1-8d13-b6c7d82ba786",
+      "set_name": "Mysterious Treasures",
+      "value": 349.08,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/mysterious-treasures",
+      "card_count": 124,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "636bb3a8-22ca-47a4-9aa4-9281427fcc17",
+      "set_name": "Neo Destiny",
+      "value": 8749.38,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/neo-destiny",
+      "card_count": 113,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ad1677ae-abb9-499d-aa57-0844b4393d68",
+      "set_name": "Neo Discovery",
+      "value": 3572.16,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/neo-discovery",
+      "card_count": 75,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "99b7c0de-e895-477d-bb53-072214ca4e68",
+      "set_name": "Neo Genesis",
+      "value": 3274.78,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/neo-genesis",
+      "card_count": 111,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6b5427e0-d3b0-4c72-b88f-f75ad3ecf126",
+      "set_name": "Neo Revelation",
+      "value": 3154.53,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/neo-revelation",
+      "card_count": 66,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "9a272a97-6807-4a86-9fac-62f788cfcd3a",
+      "set_name": "Next Destinies",
+      "value": 674.69,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/next-destinies",
+      "card_count": 103,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "1ba4390f-e4f4-4519-8652-adb94ab49d68",
+      "set_name": "Nintendo Promos",
+      "value": 1885.38,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/nintendo-promos",
+      "card_count": 91,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "f429ad80-2c1d-4be9-8179-5a0be7553a92",
+      "set_name": "Platinum",
+      "value": 593.24,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/platinum",
+      "card_count": 133,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "45598388-4b35-4bcb-9183-e7f9934bc9a4",
+      "set_name": "Pop Series 1",
+      "value": 230.4,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-1",
+      "card_count": 19,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "34b6c061-5af7-4d62-b7bd-d4727e11096c",
+      "set_name": "Pop Series 2",
+      "value": 272.66,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-2",
+      "card_count": 18,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6f3e29b0-7f1e-4e45-8343-db3544064b90",
+      "set_name": "Pop Series 3",
+      "value": 517.65,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-3",
+      "card_count": 18,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "c1655271-0de9-48e0-b20d-486d95c5b2c1",
+      "set_name": "Pop Series 4",
+      "value": 684.37,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-4",
+      "card_count": 17,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "dbcdc017-2f4f-4443-8d0c-ecff2c83b677",
+      "set_name": "Pop Series 5",
+      "value": 3037.19,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-5",
+      "card_count": 17,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0255f2c4-3a42-4b36-a3e6-7fd9c4627495",
+      "set_name": "Pop Series 6",
+      "value": 101.16,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-6",
+      "card_count": 17,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e1607915-4500-44fa-ba55-46171951a384",
+      "set_name": "Pop Series 7",
+      "value": 50.64,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-7",
+      "card_count": 17,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "cc21a8c1-943a-44db-b890-023ec0a9a0e6",
+      "set_name": "Pop Series 8",
+      "value": 55.71,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-8",
+      "card_count": 17,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "ca3c39f2-ac1b-4e74-b2bf-c3daf3e7b9dd",
+      "set_name": "Pop Series 9",
+      "value": 44.36,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/pop-series-9",
+      "card_count": 17,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "bda28e7a-2be0-47ee-a51b-0ac425b5842a",
+      "set_name": "Power Keepers",
+      "value": 1794.91,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/power-keepers",
+      "card_count": 108,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0f7b098f-448a-4693-9833-2c1e2f52127c",
+      "set_name": "Rising Rivals",
+      "value": 1026.09,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/rising-rivals",
+      "card_count": 120,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6d6e12ec-74ae-4f7a-a775-8384daa1b82b",
+      "set_name": "Ruby And Sapphire",
+      "value": 631.93,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/ruby-and-sapphire",
+      "card_count": 109,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "b4817032-403e-46f3-8313-88411d272059",
+      "set_name": "Rumble",
+      "value": 612.96,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/rumble",
+      "card_count": 16,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "0a1e294e-0923-4190-bdde-e7fceb555b0e",
+      "set_name": "Sandstorm",
+      "value": 838.02,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/sandstorm",
+      "card_count": 100,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "e58a0da7-dfbb-4949-8deb-0cb46316f0a2",
+      "set_name": "Secret Wonders",
+      "value": 494.02,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/secret-wonders",
+      "card_count": 132,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "7b17e4ec-2f1b-42d9-a63d-8bd20191c2a4",
+      "set_name": "Skyridge",
+      "value": 8825.01,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/skyridge",
+      "card_count": 182,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "1b61bdc5-149f-4a96-9efa-5417758951af",
+      "set_name": "Southern Islands",
+      "value": 387.2,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/southern-islands",
+      "card_count": 18,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "11e6bbfa-fb57-4529-b2ec-d8538bbb8f97",
+      "set_name": "Stormfront",
+      "value": 1048.58,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/stormfront",
+      "card_count": 106,
+      "date": "2022-03-05"
+    },
+    {
+      "uuid": "6244a928-a8af-4225-b863-a5a93e15804a",
+      "set_name": "Team Rocket Returns",
+      "value": 4119.95,
+      "url": "https://shop.tcgplayer.com/price-guide/pokemon/team-rocket-returns",
+      "card_count": 111,
+      "date": "2022-03-05"
+    }
+  ],
+  "date": "2022-03-05"
+}

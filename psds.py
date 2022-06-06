@@ -9,13 +9,28 @@ Original file is located at
 
 # imports
 
+import os
+import platform
 import requests
 import re
 import json
 import time
+from uuid import uuid4
 from datetime import date
 from bs4 import BeautifulSoup
 from IPython.display import clear_output
+import mysql.connector
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="python",
+  password= '!QAZ@WSX1qaz2wsx',
+  database="set_data_schema"
+)
+
+c = mydb.cursor()
+
+clear = lambda: os.system('clear')
 
 # sets and url stem
 
@@ -36,12 +51,17 @@ def scrape_data(url, set_list):
 
   print('Beginning collection...')
 
+  today = date.today().strftime('%Y-%m-%d')
+  sql = "INSERT INTO set_data_table (uuid, set_name, set_value, url, card_count) VALUES (%s, %s, %s, %s, %s)"
   set_price_list = {'data': []}
   skipped_sets = []
 
   for ind, set_name in enumerate(set_list):
 
-    clear_output(wait=True)
+    if ('Linux' in platform.platform()):
+      clear()
+    else:
+      clear_output(wait=True)
 
     try: 
       page_raw = requests.get(url + set_name)
@@ -67,17 +87,25 @@ def scrape_data(url, set_list):
     total = round(sum(map(float, price_array)), 2)
     
     # create new dict to push to set_price_list
-    set_obj = {'set_name': set_name.replace('-', ' ').title(), 'value': total, 'url': url + set_name, 'card_count': len(price_td)}
+    set_obj = {'uuid': str(uuid4()), 'set_name': set_name.replace('-', ' ').title(), 'set_value': total, 'url': url + set_name, 'card_count': len(price_td), 'date_pulled': today}
     set_price_list['data'].append(set_obj)
+    
+    # push to sql db
+    try:
+      val = (set_obj['uuid'], set_obj['set_name'], set_obj['set_value'], set_obj['url'], set_obj['card_count'])
+      c.execute(sql, val)
+      mydb.commit()
+    except:
+      skipped_sets.append(set_name + " SQL")
 
     print('Completed {} of {} sets'.format(ind + 1, len(set_list)))
+    print('Successfully retrieved data for ' + set_name)
 
     # wait ten seconds for crawl delay
     if (ind + 1 != len(set_list)):
       print('Waiting 10 seconds for next set...')
       time.sleep(10)
 
-  today = date.today().strftime('%Y-%m-%d')
   set_price_list['date'] = today
   
   file_title = 'pokemon-set-price-data-{}.json'.format(today)
@@ -94,7 +122,7 @@ def scrape_data(url, set_list):
       for set_name in skipped_sets:
         file.write('\n\t' + set_name)
       file.write('\n')
-
+  
   print('Finished gathering data. Skipped {} sets. Results saved in {}'.format(len(skipped_sets),file_title))
 
 scrape_data(pokemon_url, pokemon_sets)
